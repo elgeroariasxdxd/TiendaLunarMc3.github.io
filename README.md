@@ -107,9 +107,6 @@ Para ejecutar LunarMC se necesita tener instalado XAMPP con Apache y MySQL.
 
 **Nota:** los archivos SQL del TP6 utilizan una base de demostración independiente de la base de datos utilizada por la tienda.
 
-## 🎯 Objetivo del TP6
-
-Aplicar los principios de normalización de bases de datos a un sistema web real, mejorando la organización de la información, estableciendo relaciones entre entidades y comprobando su funcionamiento mediante consultas SQL.
 
 ---
 
